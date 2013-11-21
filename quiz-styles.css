@@ -1,0 +1,13 @@
+.question-pack { border: 1px solid #ccc; margin: auto auto; width: 650px; height: auto; text-align: center; }
+.question { display: block; text-align: justify; line-height: 18px; font-size: 14px; padding: 10px; }
+.answers { text-align: center; }
+.button-continue { display: block; }
+.button-continue a { text-decoration: none; display: block; text-align: right; font-size: 15px; padding: 10px; }
+.response-box {display:none;padding:85px 10px 10px 10px;width:95%;margin:0 auto;text-align:justify;}
+.answer-button{width:16px;height:16px;}
+.answer-label{text-align:left;cursor:pointer;}
+.answer-label:hover{ text-decoration: underline; color: blue; }
+.answer-line{clear:both;overflow:hidden;padding-top:25px;padding-bottom:10px;}
+.EndResults{display:none;}
+.tallyCount{font-size:24px;font-weight:bold;padding:0px 10px 0px 10px;}
+.move-to-next-correct-button,.move-to-next-wrong-button { display: none; }
